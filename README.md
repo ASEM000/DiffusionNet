@@ -1,7 +1,5 @@
 # DiffusionNet
-Solving PDEs using Deep learning
-
-Code Associated with https://arxiv.org/abs/2011.10015
+Solving PDEs using Deep learning Code Associated with https://arxiv.org/abs/2011.10015
 DiffusionNet: Accelerating the solution of Time-Dependent partial differential equations using deep learning
 Mahmoud Asem
 
