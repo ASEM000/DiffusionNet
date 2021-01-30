@@ -8,7 +8,7 @@ pip install -r requirements.txt
 
 
 
-# **I. Transient Heat transfer Section**
+# <mark> **I. Transient Heat transfer Section**  </mark>
 
 ### Contents
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 | Notebook| Description |
 | ------------- | ------------- |
-| `Reproduce models.ipynb`  |  Reproduce training models  |
+| `Reproduce models.ipynb`  |  Reproduce trained models  |
 | `Heatmaps figure.ipynb`  | Reproduce and visualize heat maps comparisons |
 | `Speedup figures.ipynb`  |  Reproduce speedups plots for Iterations / Gridsize ( GPU+CPU specific )  |
 |`Loss plots figures` |Reproduce loss plots|
@@ -103,3 +103,25 @@ Tick **Start** to start analysis and then plot figures as in **below**
 
 
 ___
+
+
+# <mark>  **II. Inviscid burgers Section** </mark>
+
+### Contents
+
+| Script| Description |
+| ------------- | ------------- |
+| `utils.py`  |  Utility functions   |
+| `DiffusionNet.py`  | Content Cell  |
+| `generator.py`  |  data generation utility functions for Transient heat transfer  |
+
+
+
+| Notebook| Description |
+| ------------- | ------------- |
+| `Reproduce models.ipynb`  |  Reproduce trained models  |
+| `Reproduce Figures.ipynb`  | Reproduce Data representation,Error histogram and Sample plot figure |
+| `Reproduce Test data prediction.ipynb`  |  Generate the prediction of DiffusionNet for the given test data  |
+
+
+
