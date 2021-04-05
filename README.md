@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ASEM000/DiffusionNet/HEAD)
 
 # **DiffusionNet**: Accelerating the solution of Time-Dependent partial differential equations using deep learning
 
