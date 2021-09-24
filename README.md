@@ -1,6 +1,15 @@
 
 # **DiffusionNet**: Accelerating the solution of Time-Dependent partial differential equations using deep learning
 
+Citation
+```
+@article{asem2020diffusionnet,
+  title={DiffusionNet: Accelerating the solution of Time-Dependent partial differential equations using deep learning},
+  author={Asem, Mahmoud},
+  journal={arXiv preprint arXiv:2011.10015},
+  year={2020}
+}
+```
 
 ### Install requirements
 `
